@@ -1,5 +1,5 @@
 # monitoringJagung
-Monitoring jagung dengan Fuzzy dan tanpa Fuzzy notifikasi telegram
+Bantu monitoring jagung dengan Fuzzy dan tanpa Fuzzy notifikasi telegram
 
 Sparepart: 
 - Sensor LDR
