@@ -1,9 +1,9 @@
 # monitoringJagung
-Monitoring jagung dengan Fuzzy dan tanpa Fuzzy notifikasi telegram
+Bantu monitoring jagung dengan Fuzzy dan tanpa Fuzzy notifikasi telegram
 
 Sparepart: 
 - Servo
-- Sensor LDR
+- LDR
 - LCD I2C
 - DHT11
 - ESP32
